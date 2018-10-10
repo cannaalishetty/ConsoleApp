@@ -14,7 +14,6 @@ namespace consoleApp
             // second comment.
             // creating a pull request.
             // adding an extra comment.
-            //forgot to add other comment.
         }
     }
 }
